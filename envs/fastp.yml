@@ -1,0 +1,12 @@
+name: fastp
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - fastp=0.20.0=hdbcaa40_0
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - zlib=1.2.11=h14c3975_1004
+prefix: /home/didrio87/miniconda3/envs/fastp
+

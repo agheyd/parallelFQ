@@ -1,0 +1,3 @@
+locations:
+  sample_sheet: /scratch/didrio87/projects/didrik/human_protein_atlas_tissue/sample_sheet_heart.tab
+  output_dir: /scratch/didrio87/projects/didrik/human_protein_atlas_tissue/
